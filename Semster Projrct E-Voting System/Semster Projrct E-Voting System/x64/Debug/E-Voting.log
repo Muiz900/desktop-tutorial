@@ -1,0 +1,20 @@
+﻿  CandidateClass.cpp
+  E-Voting System.cpp
+H:\Project Hello World\E-Voting\E-Voting\ElectionClass.h(7,7): error C2011: 'Election': 'class' type redefinition
+  (compiling source file 'E-Voting%20System.cpp')
+      H:\Project Hello World\E-Voting\E-Voting\ElectionClass.h(7,7):
+      see declaration of 'Election'
+  
+H:\Project Hello World\E-Voting\E-Voting\ElectionClass.h(22,7): error C2011: 'LocalElection': 'class' type redefinition
+  (compiling source file 'E-Voting%20System.cpp')
+      H:\Project Hello World\E-Voting\E-Voting\ElectionClass.h(22,7):
+      see declaration of 'LocalElection'
+  
+H:\Project Hello World\E-Voting\E-Voting\ElectionClass.h(27,7): error C2011: 'NationalElection': 'class' type redefinition
+  (compiling source file 'E-Voting%20System.cpp')
+      H:\Project Hello World\E-Voting\E-Voting\ElectionClass.h(27,7):
+      see declaration of 'NationalElection'
+  
+  ElectionClass.cpp
+  UserClass.cpp
+  Generating Code...

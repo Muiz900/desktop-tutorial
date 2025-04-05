@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (E-Voting.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ElectionClass.cpp
+  UserClass.cpp
+  Generating Code...
+  Semster Projrct E-Voting System.vcxproj -> C:\Users\HP\source\repos\Semster Projrct E-Voting System\x64\Debug\Semster Projrct E-Voting System.exe
